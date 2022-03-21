@@ -4,7 +4,7 @@
 
 - 💼 Master of Applied Statistics, Fudan University.
 
-- ⚡ Member of Fudan DISC.
+- ⚡ Member of [Fudan DISC](http://fudan-disc.com/).
 
 - ❤️ Interested in NLP, especially Dialogue System and Emotion Recognition.
 
